@@ -4,7 +4,7 @@
 
 # How to run the game
 You can run the game by cloning the repo and then opening the index.html file on your browser. 
-OR you can play it directly from this link 
+OR you can play it directly from this [Link](https://htmlpreview.github.io/?https://github.com/Mousa96/frontEnd-arcade-game/blob/master/index.html)
 
 # Game Instructions
 Use the arrows to move the player:
