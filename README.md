@@ -7,7 +7,7 @@ You can run the game by cloning the repo and then opening the index.html file on
 OR you can play it directly from this link 
 
 # Game Instructions
-Use the arrows to move the player
+Use the arrows to move the player:
 left for left, right for right,etc.
 Avoid the enemy bugs and try to reach the water to win. in case an enemy bugs hits you, your player will reset to its default location.
 
