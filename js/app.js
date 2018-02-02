@@ -23,7 +23,7 @@ var Enemy = function(x, y) {
 
     this.x = x;
     this.y = y;
-    this.speed = (Math.floor(Math.random() * 100) + 50) + getRandomInt(100); // Max Speed = 249
+    this.speed = (Math.floor(Math.random() * 100) + 50) + getRandomInt(100); // Max Speed ≈ 250
 
 };
 
