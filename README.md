@@ -1,5 +1,5 @@
-# frontEnd-arcade-game
-Udacity Javascript OOP Project
+
+# Udacity Javascript OOP Project
 # Welcome to the Frogger game
 
 # How to run the game
